@@ -2,7 +2,7 @@
 title: Form 3A
 keywords: Form 3A
 sidebar: hrmwin_sidebar
-permalink: hrmwin_Form 3A.html
+permalink: hrm-nirvana-win/Form_3A.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,8 +11,8 @@ hide_sidebar: false
 
 You can see the details in Form 3a format by expanding this node.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_41.jpg)
+![](/images/form3Aview.jpg)
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_42.jpg)
+![](/images/form3Aedit.jpg.jpg)
 
-![]()
+

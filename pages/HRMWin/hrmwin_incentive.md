@@ -2,7 +2,7 @@
 title: Incentive
 keywords: Incentive
 sidebar: hrmwin_sidebar
-permalink: hrmwin_incentive.html
+permalink: hrm-nirvana-win/incentive.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,8 +11,8 @@ hide_sidebar: false
 
 It shows detail of incentive.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_107.jpg)
+![](/images/incentive.jpg)
 
 You can expand node to explain other category.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_108.jpg)
+![](/images/expandincentive.jpg)

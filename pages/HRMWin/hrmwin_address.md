@@ -2,7 +2,7 @@
 title: Address Map
 keywords: Address Map
 sidebar: hrmwin_sidebar
-permalink: hrmwin_address.html
+permalink: hrm-nirvana-win/address.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -12,6 +12,6 @@ hide_sidebar: false
 
 It shows the permanent address of those employees whose geo points of address are available in employee details on google map.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_223.png)
+![](/images/geoaddressmap.jpg)
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_224.jpg)
+![](/images/addressmap.jpg)

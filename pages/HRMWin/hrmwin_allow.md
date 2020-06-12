@@ -2,7 +2,7 @@
 title: Allowances
 keywords: Allowances
 sidebar: hrmwin_sidebar
-permalink: hrmwin_allow.html
+permalink: hrm-nirvana-win/allow.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows the detail of allowances of employee.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_181.jpg)
+![](/images/allow.jpg)

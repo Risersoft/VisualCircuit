@@ -2,7 +2,7 @@
 title: Badli
 keywords: Badli
 sidebar: hrmwin_sidebar
-permalink: hrmwin_badli.html
+permalink: hrm-nirvana-win/badli.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows the list of badli employees.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_239.jpg)
+![](/images/badli.jpg)

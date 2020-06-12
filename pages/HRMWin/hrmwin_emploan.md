@@ -2,7 +2,7 @@
 title: Employee Loan
 keywords: Employee Loan
 sidebar: hrmwin_sidebar
-permalink: hrmwin_emploan.html
+permalink: hrm-nirvana-win/emploan.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -14,7 +14,7 @@ hide_sidebar: false
 
 Select employee and right click on it. Select **Add Employee Loan**.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_193.jpg)
+![](/images/addemployeeloan.jpg)
 
 **Loan** form will appear. Fill the details in all tabs and click on **Save**.
 
@@ -22,37 +22,37 @@ Select employee and right click on it. Select **Add Employee Loan**.
 
 Click on Add Installment to add installment manually.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_194.png)
+![](/images/payperiodtab.jpg)
 
 **•	Installment deduction from Incentive (Incentive tab)**
 
 Click on Add installment and select pay period to add installment manually.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_195.png)
+![](/images/incentivetab.jpg)
 
 
 **•	Installment Deduction from Bonus (Bonus tab)**
 
 Click on Add Installment and select bonus master to add installment manually.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_196.png)
+![](/images/bonustabloan.jpg)
 
 **•	Installment Pay Back (Adhoc tab)**
 
 Click on Add Installment to add adhoc pay back.  
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_197.png)
+![](/images/adhoctab.jpg)
 
 ## List
 
 
 Click on **HRMS -> Loans**. Loans list will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_198.jpg)
+![](/images/employeeloanlist.jpg)
 
 ## Edit
 
 
 Select the loan from loan list and right click on it. Select **Edit Employee Loan** option. Loan form will appear. Edit the details and click on Save.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_199.jpg)
+![](/images/editemployeeloan.jpg)

@@ -2,7 +2,7 @@
 title: Company
 keywords: Company
 sidebar: hrmwin_sidebar
-permalink: hrmwin_company.html
+permalink: hrm-nirvana-win/company.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -12,19 +12,19 @@ hide_sidebar: false
 ## Create
 **Step-1**:  Click on **New-> Company**. Company form will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_0.jpg)
+![](/images/newcompany.jpg)
 
 **STEP-2**: Fill the details in **Basic**, **Config** and **Logo** tab.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_1.jpg)
+![](/images/basictab.jpg)
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_2.jpg)
+![](/images/configtab.jpg)
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_3.jpg)
+![](/images/logotab.jpg)
 
 **STEP-3**: Click on **GST Reg** tab and click on **Add New** button to register GSTIN number of company. The blank row appears in GST Reg tab. Fill the details in this row and click on **Save**.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_4.jpg)
+![](/images/gstregtab.jpg)
 
 ## List
 
@@ -32,7 +32,7 @@ hide_sidebar: false
 
  Click on **Master** menu and select **Company**. Company list will appear.
 
- ![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_5.jpg)
+![](/images/companylist.jpg)
 
 ## Edit
 
@@ -40,7 +40,7 @@ hide_sidebar: false
 
 **Step-1**: Select the company from company list and right click on it. Click on **Edit Company** option. Company details will open.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_6.jpg)
+![](/images/editcompany.jpg)
 
 **Step-2**: Edit the details and click on **Save**.
 

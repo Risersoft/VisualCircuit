@@ -2,7 +2,7 @@
 title: Campus
 keywords: Campus
 sidebar: hrmwin_sidebar
-permalink: hrmwin_camp.html
+permalink: hrm-nirvana-win/camp.html
 folder: HRMWin   
 hide_sidebar: false
 
@@ -12,4 +12,4 @@ hide_sidebar: false
 
 It shows list of campuses.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_215.jpg)
+![](/images/camp.jpg)

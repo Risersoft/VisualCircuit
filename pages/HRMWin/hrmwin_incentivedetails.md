@@ -2,7 +2,7 @@
 title: Incentive Details
 keywords: Incentive Details
 sidebar: hrmwin_sidebar
-permalink: hrmwin_incentivedetails.html
+permalink: hrm-nirvana-win/incentivedetails.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -12,6 +12,6 @@ hide_sidebar: false
 It shows incentive details.
 
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_109.jpg)
+![](/images/incentivedetails.jpg)
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_110.png)
+![](/images/incentivedeatilsinexpand.png)

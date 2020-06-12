@@ -2,7 +2,7 @@
 title: Contractor
 keywords: Contractor
 sidebar: hrmwin_sidebar
-permalink: hrmwin_contractor.html
+permalink: hrm-nirvana-win/contractor.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -13,16 +13,16 @@ hide_sidebar: false
 
 **STEP-1**: Click on **New** option and select **New Contractor**. **Vendor HR Contractor** window will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_207.jpg)
+![](/images/newcontractor.jpg)
 
 **STEP-2**: Fill the details.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_208.png)
+![](/images/hrcontractor.jpg)
 
 
 **STEP-3**: Click on **Add New** button to add other parties of this main contractor. Party form will appear. Fill the details and click on **Ok**. If other party is not available, you can click on **create default** button.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_209.jpg)
+![](/images/partyaddresstab.jpg)
 
 **STEP-4**: Click on **Save** button.
 
@@ -30,9 +30,9 @@ hide_sidebar: false
 
 Click on **HRMS menu -> Main Contractors**. To see selectable parties, click on **HRMS -> Contractors**. List will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_210.jpg)
+![](/images/hrmsmain.jpg)
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_211.jpg)
+![](/images/hrmscontractor.jpg)
 
 ## Edit
 
@@ -48,7 +48,7 @@ Click on Alter option and select **Edit Vendor**.
 
 **STEP-4**: Edit the details of contractor.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_212.jpg)
+![](/images/editcontractor.jpg)
 
 
 **STEP-5**: Click on **Save** button.

@@ -2,7 +2,7 @@
 title: Professional Tax
 keywords: Professional Tax
 sidebar: hrmwin_sidebar
-permalink: hrmwin_prof.html
+permalink: hrm-nirvana-win/prof.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -12,6 +12,6 @@ hide_sidebar: false
 It shows professional tax details of employee’s salary for respective pay period.
 
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_94.png)
+![](/images/proftax.png)
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_95.jpg)
+![](/images/professionaltax.jpg)

@@ -2,7 +2,7 @@
 title: Salary
 keywords: Salary
 sidebar: hrmwin_sidebar
-permalink: hrmwin_salary1.html
+permalink: hrm-nirvana-win/salary1.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows salary description for particular employee.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_177.jpg)
+![](/images/currentsalary.jpg)

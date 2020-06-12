@@ -2,7 +2,7 @@
 title: Advance
 keywords: Advance
 sidebar: hrmwin_sidebar
-permalink: hrmwin_advance.html
+permalink: hrm-nirvana-win/advance.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -12,8 +12,8 @@ hide_sidebar: false
 
 It shows the details of advance given.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_83.jpg)
+![](/images/advance.jpg)
 
 You can see other category by expanding advance node.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_84.png)
+![](/images/advancecategorymenu.jpg)

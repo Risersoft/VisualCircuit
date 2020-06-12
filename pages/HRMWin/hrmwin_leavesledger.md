@@ -2,7 +2,7 @@
 title: Leave Ledger
 keywords: Leave Ledger
 sidebar: hrmwin_sidebar
-permalink: hrmwin_leavesledger.html
+permalink: hrm-nirvana-win/leavesledger.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -12,4 +12,4 @@ hide_sidebar: false
 It shows the leave balance for particular employee.
 
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_174.jpg)
+![](/images/leavesledger.jpg)

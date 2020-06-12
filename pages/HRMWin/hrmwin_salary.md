@@ -2,7 +2,7 @@
 title: Salary
 keywords: Salary
 sidebar: hrmwin_sidebar
-permalink: hrmwin_salary.html
+permalink: hrm-nirvana-win/salary.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -12,14 +12,14 @@ hide_sidebar: false
 It shows employee wise salary details and deductions
 
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_87.jpg)
+![](/images/salary.jpg)
 
 You can see all the details of Staff, Worker, Contactor and Camus separately by expanding salary node.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_88.png)
+![](/images/salarytab.png)
 
 You can do various changes by right click menu.
 
 
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_89.jpg)
+![](/images/salarychangesrightclickmenu.jpg)

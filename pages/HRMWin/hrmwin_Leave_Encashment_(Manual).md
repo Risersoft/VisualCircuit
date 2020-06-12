@@ -2,7 +2,7 @@
 title: Leave Encashment (Manual)
 keywords: Leave Encashment (Manual)
 sidebar: hrmwin_sidebar
-permalink: hrmwin_Leave_Encashment_(Manual).html
+permalink: hrm-nirvana-win/Leave_Encashment_(Manual).html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,8 +11,8 @@ hide_sidebar: false
 
 You can see the list of financial years.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_30.jpg)
+![](/images/leaveencashmentmanual.jpg)
 
 You can see leave encashment (done manually) details for each financial year by expanding leave encashment node.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_31.png)
+![](/images/leaveencashmentbrowser.png)

@@ -2,7 +2,7 @@
 title: Trainings
 keywords: Trainings
 sidebar: hrmwin_sidebar
-permalink: hrmwin_train.html
+permalink: hrm-nirvana-win/train.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows the list of trainings.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_243.jpg)
+![](/images/train.jpg)

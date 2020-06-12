@@ -2,7 +2,7 @@
 title: Roster
 keywords: Roster
 sidebar: hrmwin_sidebar
-permalink: hrmwin_roster.html
+permalink: hrm-nirvana-win/roster.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -12,4 +12,4 @@ hide_sidebar: false
 It shows the list of employees with all personal details.
 
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_80.jpg)
+![](/images/roster.jpg)

@@ -2,7 +2,7 @@
 title: Salary Payments
 keywords: Salary Payments
 sidebar: hrmwin_sidebar
-permalink: hrmwin_salarypayments.html
+permalink: hrm-nirvana-win/salarypayments.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -12,4 +12,4 @@ hide_sidebar: false
 
 You can see details of salary payments done in particular pay period.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_102.jpg)
+![](/images/salarypayments.jpg)

@@ -2,7 +2,7 @@
 title: Salary Summary (Campus Wise)
 keywords: Salary Summary (Campus Wise)
 sidebar: hrmwin_sidebar
-permalink: hrmwin_campsalsum.html
+permalink: hrm-nirvana-win/campsalsum.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -12,4 +12,5 @@ hide_sidebar: false
 
 It shows campus wise salary summary.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_86.jpg)
+![](/images/campsalsum.jpg)
+

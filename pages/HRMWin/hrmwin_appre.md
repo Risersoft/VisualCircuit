@@ -2,7 +2,7 @@
 title: Apprentice
 keywords: Apprentice
 sidebar: hrmwin_sidebar
-permalink: hrmwin_appre.html
+permalink: hrm-nirvana-win/appre.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows the list of apprentice employees.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_240.jpg)
+![](/images/apprentice.jpg)

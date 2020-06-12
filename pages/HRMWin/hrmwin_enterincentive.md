@@ -2,7 +2,7 @@
 title: Enter Incentive
 keywords: Enter Incentive
 sidebar: hrmwin_sidebar
-permalink: hrmwin_enterincentive.html
+permalink: hrm-nirvana-win/enterincentive.html
 folder: HRMWin   
 hide_sidebar: false
 ---

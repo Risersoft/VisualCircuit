@@ -2,7 +2,7 @@
 title: Salary Summary
 keywords: Salary Summary
 sidebar: hrmwin_sidebar
-permalink: hrmwin_salsum.html
+permalink: hrm-nirvana-win/salsum.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -13,4 +13,4 @@ hide_sidebar: false
 It shows total salary summary including benefits.
 
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_85.jpg)
+![](/images/salarysummary.jpg)

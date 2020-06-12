@@ -2,7 +2,7 @@
 title: Add as New Employee
 keywords: Add as New Employee
 sidebar: hrmwin_sidebar
-permalink: hrmwin_newemp.html
+permalink: hrm-nirvana-win/newemp.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -15,4 +15,4 @@ Right-click on trainee or casual employee(person) and select **New Employee**.
 
 If this person is already an employee, it will show this message.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_200.png)
+![](/images/addasnewemployee.jpg)

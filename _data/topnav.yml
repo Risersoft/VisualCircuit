@@ -24,8 +24,8 @@ topnav_dropdowns:
     - title: Products
       folderitems:
         - title: HRM Nirvana Windows 
-          url: /hrmwin_introduction.html
+          url: /hrm-nirvana-win/introduction.html
         - title: ESS Mobile 
-          url: /ess_introduction.html
+          url: /ess-mobile/introduction.html
         
           

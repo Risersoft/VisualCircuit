@@ -2,13 +2,13 @@
 title: Bonus Master
 keywords: Bonus Master
 sidebar: hrmwin_sidebar
-permalink: hrmwin_bonusmaster.html
-folder: HRMWin   h
+permalink: hrm-nirvana-win/bonusmaster.html
+folder: HRMWin   
 hide_sidebar: false
 ---
 
 
-## Created
+## Create
 It will be auto-generated on the basis of **Bonus Start Month** field in Company HR details.
 
 ## List
@@ -22,7 +22,7 @@ Open **Company HR Details** form and click on **Bonus** tab. Bonus master list w
 **Step-2**: Edit the details of **Details** tab and click on **Calculate. BM, FF and Vouchers** tabs will auto-populate.
 Bonus master will calculate when all the pay period between start date and end date are finalized. Other it gives message.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_49.jpg)
+![](/images/editbonusmaster.jpg)
 
 **Step-3**: Click on **Save**.
 
@@ -32,7 +32,7 @@ Bonus master will calculate when all the pay period between start date and end d
 
 **Step-2**: Click on **Bonus** tab and select the bonus master that you want to edit.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_50.jpg)
+![](/images/bonustab.jpg)
 
 **Step-3**: Click on **Edit**. Bonus master form will appear.
 

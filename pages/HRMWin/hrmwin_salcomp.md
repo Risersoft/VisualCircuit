@@ -2,7 +2,7 @@
 title: Salary Components
 keywords: Salary Components
 sidebar: hrmwin_sidebar
-permalink: hrmwin_salcomp.html
+permalink: hrm-nirvana-win/salcomp.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -12,8 +12,8 @@ hide_sidebar: false
 It shows the details of salary components like HRA, Basic salary, CA etc.
 
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_90.jpg)
+![](/images/salcomponents.jpg)
 
 You can see the salary components details of staff, worker and department wise separately by expanding salary component node.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_91.png)
+![](/images/salarycomponentsdetailstab.png)

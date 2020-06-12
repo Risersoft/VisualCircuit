@@ -2,7 +2,7 @@
 title: Left
 keywords: Left
 sidebar: hrmwin_sidebar
-permalink: hrmwin_left.html
+permalink: hrm-nirvana-win/left.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows the list of left employees.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_242.jpg)
+![](/images/left.jpg)
