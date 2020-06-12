@@ -2,7 +2,7 @@
 title: Salary History
 keywords: Salary History
 sidebar: hrmwin_sidebar
-permalink: hrmwin_salhistory.html
+permalink: hrm-nirvana-win/salhistory.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows salary history of employee.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_183.jpg)
+![](/images/salhistory.jpg)

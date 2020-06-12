@@ -2,7 +2,7 @@
 title: Bonus
 keywords: Bonus
 sidebar: hrmwin_sidebar
-permalink: hrmwin_bonus.html
+permalink: hrm-nirvana-win/bonus.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,6 +11,8 @@ hide_sidebar: false
 
 You can see bonus details from here.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_103.jpg)
+![](/images/bonus.jpg)
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_104.png)
+![](/images/bonusexpand.png)
+
+

@@ -2,13 +2,13 @@
 title: ESS Punch
 keywords: ESS Punch
 sidebar: ess_sidebar
-permalink: ess_punch.html
+permalink: ess-mobile/punch.html
 folder: ESS
 hide_sidebar: false
 comments: false
 ---
 
-## Punch
+# Punch
 
 
 **Step-1:** Click on **Punch** button on dashboard. Before opening app, your mobile GPS should open.
@@ -16,9 +16,9 @@ comments: false
 **Step-2:** Date, Time, GPS Co-ordinates and Location will display. Click on **Punch** button again. 
 Punch successfully message will show. This information will be saved in windows app. You can see all information on punched attendance form.
 
-![](http://docs.risersoft.com/ess/ImagesExt/image8_13.jpg)
+![](/images/punchdetail.jpg)
 
-![](http://docs.risersoft.com/ess/ImagesExt/image8_14.jpg)
+![](/images/punched.jpg)
 
 You can see the history of punches by clicking on **History** button.
 
@@ -31,6 +31,6 @@ Employee’s punch timings will be display in on current attendance view, attend
 
 On punched attendance form for particular employee, you can see locations, geo points, campus, distance from campus and other details related to punch location.
 
-![](http://docs.risersoft.com/ess/ImagesExt/image8_12.png)
+![](/images/puncheshrms.png)
 
 You can edit the punches by Attendance (Employee wise), Attendance (Day wise) and Punched Attendance form.

@@ -1,8 +1,8 @@
 ---
-title: Attendance
-keywords: Attendance
+title: Attendance Type Master
+keywords: Attendance Type Master
 sidebar: hrmwin_sidebar
-permalink: hrmwin_attendance.html
+permalink: hrm-nirvana-win/attendance.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,25 +11,25 @@ hide_sidebar: false
 
 **STEP-1**: Click on **New -> Attendance Type Master**. Attendance Type Master form will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_54.jpg)
+![](/images/attendancetypemaster.jpg)
 
 **STEP-2**: Fill the details and click on **Save**.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_55.jpg)
+![](/images/Saveattendancemaster.jpg)
 
 ## List
 
 Click on **Master -> Attendance Type Master**. Attendance Type menu will appear.
 
- ![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_56.jpg)
+![](/images/attendancetypelist.jpg)
 
 ## Edit
 
 **STEP-1**: Select attendance type from the list and right click on it. Select **Edit Attendance Tag Master option**.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_57.jpg)
+![](/images/editattendancetype.jpg)
 
 
 **STEP-2**: Edit the details and click on **Save**.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_58.jpg)
+![](/images/saveattendancetype.jpg)

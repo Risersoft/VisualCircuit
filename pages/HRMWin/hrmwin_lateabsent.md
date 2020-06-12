@@ -2,7 +2,7 @@
 title: Latecomers and Absentees
 keywords: Latecomers and Absentees
 sidebar: hrmwin_sidebar
-permalink: hrmwin_lateabsent.html
+permalink: hrm-nirvana-win/lateabsent.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows the list of latecomers and absentees.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_228.jpg)
+![](/images/lateabsent.jpg)

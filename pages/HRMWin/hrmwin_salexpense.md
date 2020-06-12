@@ -2,7 +2,7 @@
 title: Salary Expense
 keywords: Salary Expense
 sidebar: hrmwin_sidebar
-permalink: hrmwin_salexpense.html
+permalink: hrm-nirvana-win/salexpense.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows department wise salary expenses.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_116.jpg)
+![](/images/salaryexpense.jpg)

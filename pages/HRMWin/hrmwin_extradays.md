@@ -2,7 +2,7 @@
 title: Extra Days
 keywords: Extra Days
 sidebar: hrmwin_sidebar
-permalink: hrmwin_extradays.html
+permalink: hrm-nirvana-win/extradays.html
 folder: HRMWin   
 hide_sidebar: false
 ---

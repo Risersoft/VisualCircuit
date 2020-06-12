@@ -2,7 +2,7 @@
 title: Dashboard
 keywords: Dashboard
 sidebar: hrmwin_sidebar
-permalink: hrmwin_dashboard.html
+permalink: hrm-nirvana-win/dashboard.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -12,4 +12,4 @@ hide_sidebar: false
 
 It shows employee related details in the form of graphs.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_222.jpg)
+![](/images/dashboard.jpg)

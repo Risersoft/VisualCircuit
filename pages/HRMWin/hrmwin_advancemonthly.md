@@ -2,7 +2,7 @@
 title: Advance Monthly
 keywords: Advance Monthly
 sidebar: hrmwin_sidebar
-permalink: hrmwin_advancemonthly.html
+permalink: hrm-nirvana-win/advancemonthly.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -13,7 +13,9 @@ hide_sidebar: false
 This can be used to generate payment entry for accounts purpose.
 
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_126.jpg)
+![](/images/advancemonthly.jpg)
+
+
 
 You can see payments and invoices separately by click on **Payment** and click on **Invoices** in Advance Monthly node respectively.
 

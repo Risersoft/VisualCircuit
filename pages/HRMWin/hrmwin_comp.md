@@ -2,7 +2,7 @@
 title: Company
 keywords: Company
 sidebar: hrmwin_sidebar
-permalink: hrmwin_comp.html
+permalink: hrm-nirvana-win/comp.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows the list of companies.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_214.jpg)
+![](/images/comp.jpg)

@@ -2,7 +2,7 @@
 title: Calculate Incentive
 keywords: Calculate Incentive
 sidebar: hrmwin_sidebar
-permalink: hrmwin_calincentive.html
+permalink: hrm-nirvana-win/calincentive.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,6 +11,6 @@ hide_sidebar: false
 
 If you have entered incentive, click on Calculate Incentive to calculate incentives for particular pay period.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_144.png)
+![](/images/calculateincentivebutton.png)
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_145.jpg)
+![](/images/calculateincentive.png)

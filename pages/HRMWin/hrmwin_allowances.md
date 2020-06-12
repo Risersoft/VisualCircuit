@@ -2,7 +2,7 @@
 title: Allowances
 keywords: Allowances
 sidebar: hrmwin_sidebar
-permalink: hrmwin_allowances.html
+permalink: hrm-nirvana-win/allowances.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -13,8 +13,8 @@ hide_sidebar: false
 You can see details of allowances.
 
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_100.jpg)
+![](/images/allowances.jpg)
 
 You can also expand this node.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_101.png)
+![](/images/expandallowances.png)

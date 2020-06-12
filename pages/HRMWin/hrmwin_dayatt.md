@@ -2,7 +2,7 @@
 title: Attendance(Day Wise)
 keywords: Attendance (Day Wise)
 sidebar: hrmwin_sidebar
-permalink: hrmwin_dayatt.html
+permalink: hrm-nirvana-win/dayatt.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,16 +11,16 @@ hide_sidebar: false
 
 You can see the day wise attendance of all the employees and edit the day wise attendance for particular employee also.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_73.jpg)
+![](/images/attendancedaywise.jpg)
 
 When click on **Edit Attendance (Day Wise)** the form will appear.
 
 
 You can edit Ist half, 2nd half, InTime, OutTime, OTHours and Comment. If you edit any detail, you have to select Yes in isManual field. Otherwise after process punch, your data will be lost and original data will display.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_74.jpg)
+![](/images/editdaywiseattendance.jpg)
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_75.jpg)
+![](/images/editdaywiseattendance2.jpg)
 
 **Open Leave Browser**
 

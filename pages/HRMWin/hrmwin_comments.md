@@ -2,7 +2,7 @@
 title: Comments
 keywords: Comments
 sidebar: hrmwin_sidebar
-permalink: hrmwin_comments.html
+permalink: hrm-nirvana-win/comments.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows comments made by other departments.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_231.jpg)
+![](/images/comments.jpg)

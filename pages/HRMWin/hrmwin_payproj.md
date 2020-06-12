@@ -2,7 +2,7 @@
 title: Pay Projections
 keywords: Pay Projections
 sidebar: hrmwin_sidebar
-permalink: hrmwin_payproj.html
+permalink: hrm-nirvana-win/payproj.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows the list of pay projections.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_227.jpg)
+![](/images/payproj.jpg)

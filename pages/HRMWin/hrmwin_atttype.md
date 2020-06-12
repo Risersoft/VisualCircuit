@@ -2,7 +2,7 @@
 title: Attendance Type
 keywords: Attendance Type
 sidebar: hrmwin_sidebar
-permalink: hrmwin_atttype.html
+permalink: hrm-nirvana-win/atttype.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows attendance types for particular company.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_215.jpg)
+![](/images/atttype.jpg)

@@ -2,13 +2,13 @@
 title: ESS Profile
 keywords: ESS Profile
 sidebar: ess_sidebar
-permalink: ess_profile.html
+permalink: ess-mobile/profile.html
 folder: ESS
 hide_sidebar: false
 comments: false
 ---
 
-## Profile
+# Profile
 
 
 
@@ -18,5 +18,5 @@ You can see all the details but you cannot edit the details except address. If y
 
 You can upload profile photo for app by clicking on **Upload Pic** button.
 
-![](http://docs.risersoft.com/ess/ImagesExt/image8_11.jpg)
+![](/images/profile.jpg)
 

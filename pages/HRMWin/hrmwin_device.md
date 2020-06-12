@@ -2,7 +2,7 @@
 title: Device
 keywords: Device
 sidebar: hrmwin_sidebar
-permalink: hrmwin_device.html
+permalink: hrm-nirvana-win/device.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows mobile details of particular employee (In case of using mobile app for punching).
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_177.jpg)
+![](/images/device.jpg)

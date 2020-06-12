@@ -2,7 +2,7 @@
 title: Rate Master
 keywords: Rate Master
 sidebar: hrmwin_sidebar
-permalink: hrmwin_Rate Master.html
+permalink: hrm-nirvana-win/rate-master.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,27 +11,28 @@ hide_sidebar: false
 
 **Step-1**: Select the **Company** from company list and right click on it. Select **Add Rate Master**. Rate Master form will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_43.jpg)
+![](/images/addratemaster.jpg)
 
 **Step-2**: Fill the details and click on **Generate**. Benefits details will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_44.jpg)
+![](/images/generatebutton.jpg)
 
 **Step-3**: Click on **Save**.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_45.jpg)
+![](/images/saveratemaster.jpg)
 
 
->Note: You can add rate master by the following ways:
-> 1.	Click on Rate tab in Company HR Details form and click on Add to add rate master. Fill the details in rate master and click on Generate. Benefits details will show.  
+>**Note: You can add rate master by the following ways:**
 
->2.	Select the Company and click on Alter option and select Add Rate Master option.
+  1.	Click on Rate tab in Company HR Details form and click on Add to add rate master. Fill the details in rate master and click on Generate. Benefits details will show.  
 
->3.	Select Pay period from pay period list and right click on it. Select Add Rate Master option.
+  2.	Select the Company and click on Alter option and select Add Rate Master option.
 
->4.	Select department from department list and right click on it. Select Add Rate Master.
+  3.	Select Pay period from pay period list and right click on it. Select Add Rate Master option.
 
->5.	Select employee from employee list and right click on it. Select Add Rate Master.
+  4.	Select department from department list and right click on it. Select Add Rate Master.
+
+  5.	Select employee from employee list and right click on it. Select Add Rate Master.
 
 
 ## List
@@ -43,7 +44,7 @@ Open **Company HR Details** form and click on **Rates** tab. Rate master list wi
 
 **Step-1**: Select **Pay period** from pay period list and right click on it. Select **Edit Rate Master** option. Rate Master form will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_46.jpg)
+![](/images/editratemaster.jpg)
 
 **Step-2**: Edit the details and click on **Save**.
 
@@ -54,7 +55,7 @@ Open **Company HR Details** form and click on **Rates** tab. Rate master list wi
 
 **Step-2**: Click on **Rates** tab.  Rate Masters list will appear.
 
-![]()
+![](/images/ratestab.jpg)
 
 
 **Step-3**: Select the **Rate master** and click on **Edit**. Rate master form will appear.
@@ -67,7 +68,7 @@ Open **Company HR Details** form and click on **Rates** tab. Rate master list wi
 
 You can also copy rate master by **right click menu of pay period** and selecting **Copy Rate Master**.
 
- ![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_48.jpg)
+![](/images/copyratemaster.jpg)
 
 
 >You can also copy rate master through Browse Company HR -> Rate Masters - > Copy Rate Master

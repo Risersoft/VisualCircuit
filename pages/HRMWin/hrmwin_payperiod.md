@@ -2,7 +2,7 @@
 title: Pay Period
 keywords: Pay Period
 sidebar: hrmwin_sidebar
-permalink: hrmwin_payperiod.html
+permalink: hrm-nirvana-win/payperiod.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,12 +11,12 @@ hide_sidebar: false
 
 **Step-1**: Select the **Company** from company list and right click on it. Select **Add Pay Period**. Pay Period form will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_63.jpg)
+![](/images/addpayperiod.jpg)
 
 
 **Step-2**: Some fields are auto-generated. You do not need fill the details initially. Simply open the form and click on **Save**.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_64.jpg)
+![](/images/payperioddetailstab.jpg)
 
 >Note: You can add pay period by following ways:
 1.	Select Pay period from pay period list and right click on it. Select Add Pay period.
@@ -28,13 +28,13 @@ hide_sidebar: false
 
 Click on **HRMS -> Pay Periods**. Pay Periods list will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_65.jpg)
+![](/images/payperiodlist.jpg)
 
 ## Edit
 
 **Step-1**: Select the **pay period** from pay period list and right click on it. Select **Edit Pay Period**.  Pay Period form will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_66.jpg)
+![](/images/editpayperiod.jpg)
 
 **Step-2**: Edit the details and click on **Save**.
 
@@ -42,63 +42,6 @@ Click on **HRMS -> Pay Periods**. Pay Periods list will appear.
 
 Select **pay period** from pay period list and right click on it. Select **Browse Pay period**. Pay Period browser will appear.  
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_67.jpg)
+![](/images/browsepayperiod.jpg)
 
 
-Pay period browser has following options:
-
-[Attendance]()
-
-[Pending Attendance]()
-
-[Attendance (Day Wise)]()
-
-[Today’s Punches]()
-
-[Punched Attendance]()
-
-[Roster]()
-
-[Form 12A]()
-
-[Leave Balance @ End Date]()
-
-[Advance]()
-
-[Salary Summary]()
-
-[Salary Summary (Campus Wise)]()
-
-[Salary]()
-
-[Salary Components]()
-
-[TDS]()
-
-[Professional Tax]()
-
-[Loans]()
-
-[Allowances]()
-
-[Salary Payments]()
-
-[Bonus]()
-
-[Salary Rates]()
-
-[Categorization]()
-
-[Incentive]()
-
-[Incentive Details]()
-
-[Incentive Payments]()
-
-[Payment HR Vouchers]()
-
-[Salary Detail]()
-
-[Cash Detail]()
-
-[Salary Expense]()

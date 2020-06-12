@@ -2,7 +2,7 @@
 title: Main Contractors
 keywords: Main Contractors
 sidebar: hrmwin_sidebar
-permalink: hrmwin_maincontractors.html
+permalink: hrm-nirvana-win/maincontractors.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows the list of main contractors.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_229.jpg)
+![](/images/maincontractors.jpg)

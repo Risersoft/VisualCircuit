@@ -2,7 +2,7 @@
 title: Pay Periods
 keywords: Pay Periods
 sidebar: hrmwin_sidebar
-permalink: hrmwin_payperiods1.html
+permalink: hrm-nirvana-win/payperiods1.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows the list of pay periods.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_225.jpg)
+![](/images/payperiods1.jpg)

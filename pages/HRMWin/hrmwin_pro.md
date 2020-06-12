@@ -2,7 +2,7 @@
 title: Probationer
 keywords: Probationer
 sidebar: hrmwin_sidebar
-permalink: hrmwin_pro.html
+permalink: hrm-nirvana-win/pro.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,4 +11,4 @@ hide_sidebar: false
 
 It shows the list of probationer employees.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_240.jpg)
+![](/images/probationer.jpg)

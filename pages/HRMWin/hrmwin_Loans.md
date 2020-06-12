@@ -2,7 +2,7 @@
 title: Loans
 keywords: Loans
 sidebar: hrmwin_sidebar
-permalink: hrmwin_Loans.html
+permalink: hrm-nirvana-win/Loans.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,6 +11,6 @@ hide_sidebar: false
 
 You can loan details for each financial year.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_34.jpg)
+![](/images/loans.jpg)
 
 You can see loan details for each financial year by expanding loan node.

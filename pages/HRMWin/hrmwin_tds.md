@@ -2,7 +2,7 @@
 title: TDS
 keywords: TDS
 sidebar: hrmwin_sidebar
-permalink: hrmwin_tds.html
+permalink: hrm-nirvana-win/tds.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,8 +11,8 @@ hide_sidebar: false
 
 It shows TDS details of employee’s salary for respective pay period.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_92.png)
+![](/images/saltds.png)
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_93.jpg)
+![](/images/tds.jpg)
 
 **Signature** field is used on hard copy to take signature of employees.

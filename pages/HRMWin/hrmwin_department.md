@@ -1,8 +1,8 @@
 ---
-title: Departments
-keywords: Departments
+title: Department
+keywords: Department
 sidebar: hrmwin_sidebar
-permalink: hrmwin_department.html
+permalink: hrm-nirvana-win/department.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,7 +11,7 @@ hide_sidebar: false
 
 **Step-1**: Select **Company** from company list and right click on it. Select **Add Department** option. Department form will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_59.jpg)
+![](/images/adddepartment.jpg)
 
 **Step-2**: Fill the details.
 
@@ -36,7 +36,7 @@ Select these according to department purpose:
 >Shops/ Stores are your material departments that you have created in Configuration app.
 
 
-  ![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_60.png)
+![](/images/shops.jpg)
 
 
 **Step-3**: Click on **Save**.
@@ -51,17 +51,17 @@ Select these according to department purpose:
 
 Click on **Employees-> Departments**. Department list will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_61.jpg)
+![](/images/departmentlist.jpg)
 
 
 ## Edit
 
 **Step-1**: Select **Department** that you want to edit from department list and right click on it. Select **Edit Department**. Department form will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_62.jpg)
+![](/images/editdepartment.jpg)
 
 **Step-2**: Edit the details and click on **Save**.
 
 >Note: 1. You can edit department by right click on employee and select Edit Department.
 
->    2.. You can edit department by right click on loan and select Edit Department.
+       2. You can edit department by right click on loan and select Edit Department.
