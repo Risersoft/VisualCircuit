@@ -2,7 +2,7 @@
 title: HRMS Menu
 keywords: HRMS Menu
 sidebar: hrmwin_sidebar
-permalink: hrmwin_hrmsmenu.html
+permalink: hrm-nirvana-win/hrmsmenu.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,29 +11,9 @@ hide_sidebar: false
 
 When click on HRMS menu, the following options will appear:
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_221.jpg)
+![](/images/employeemenu.jpg)
 
 
 
 
-> More:
 
-[Dashboard]()
-
-[Address Map]()
-
-[Pay Periods]()
-
-[Loans]()
-
-[Pay Projections]()
-
-[Latecomers and Absentees]()
-
-[Main Contractors]()
-
-[Contractors]()
-
-[Comments]()
-
-[Leave Applications]()

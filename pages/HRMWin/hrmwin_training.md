@@ -18,7 +18,7 @@ hide_sidebar: false
 
 **STEP-2**: Fill the details.
 
-![](/images/trainingdetails.jpg)
+![](/images/trainingdetails.png)
 
 **STEP-3**: Click on **Add** button to add employees who will attend training.  List of employees will appear. Select the employee and click on OK.
 
@@ -26,7 +26,7 @@ hide_sidebar: false
 
 **STEP-4**: Row will add in Applicability area. Fill effectiveness and click on **Save**.
 
-![](/images/applicability.jpg)
+![](/images/applicability.png)
 
 ## List
 
@@ -42,6 +42,6 @@ In Edit mode, you can also upload training content in pdf format.
 
 For this, click on **Browse** button and select training content. Click on **Upload** button. Click on **Save**.
 
-![](/images/browse.jpg)
+![](/images/browse.png)
 
 You can remove, view and clear raining content.

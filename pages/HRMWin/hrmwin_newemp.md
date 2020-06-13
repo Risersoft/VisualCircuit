@@ -15,4 +15,4 @@ Right-click on trainee or casual employee(person) and select **New Employee**.
 
 If this person is already an employee, it will show this message.
 
-![](/images/addasnewemployee.jpg)
+![](/images/addasnewemployee.png)

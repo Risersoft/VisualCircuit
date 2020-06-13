@@ -16,4 +16,4 @@ It shows the details of advance given.
 
 You can see other category by expanding advance node.
 
-![](/images/advancecategorymenu.jpg)
+![](/images/advancecategorymenu.png)

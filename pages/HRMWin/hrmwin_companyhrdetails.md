@@ -2,7 +2,7 @@
 title: Company HR Details
 keywords: Company HR Details
 sidebar: hrmwin_sidebar
-permalink: hrmwin_companyhrdetails.html
+permalink: hrm-nirvana-win/companyhrdetails.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -13,13 +13,13 @@ hide_sidebar: false
 
 **Step-1**: Select the **Company** from company list and right click on it. Select Edit **Company HR Details**. Company HR Details form will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_16.jpg)
+![](/images/editcompanyhrdetails.jpg)
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_17.jpg)
+![](/images/companyHRdetailstab.jpg)
 
 **Step-2**: Feed the details in **Details** tab, add benefits in **Benefits** tab and type loan rule in **Loan Rules** tab.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_18.jpg)
+![](/images/companyhrbenefitstab.jpg)
 
 **Step-4**: Click on **Save**.
 
@@ -32,56 +32,56 @@ You can edit Company HR details by following ways:
 
 1.	Click on **HRMS-> Pay Periods**.  Select the **Pay period** and right click on it. Select **Edit Company HR Details**. Company HR Details form will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_19.jpg)
+![](/images/editcompanyhrdetailspayperiod.jpg)
 
 Edit the details and click on **Save**.
 
 2.	Click on **Employees-> Departments**.  Select the **Department** from department list and right click on it. Select **Edit Company HR Details**.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_20.jpg)
+![](/images/editcompanyhrdepartmentlist.jpg)
 
 3.	Click on **Employees-> List All**.  Select **Employee** from employee list and right click on it. Select **Edit Company HR Details**.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_21.jpg)
+![](/images/editcompanyhremployeelist.jpg)
 
 ## Browse
 
 **Step-1**: Select the **Company** from company list and right click on it. Select **Browse Company HR**. Company HR browser will open.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_22.jpg)
+![](/images/browsecompanyhr.jpg)
 
 >You can browse Company HR details by following ways:
 
 1.	Select the **Pay period** and right click on it. Select **Browse Company HR**. Company HR browser will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_23.jpg)
+![](/images/browsecompanyhrpayperiod.jpg)
 
 You can edit the details and click on **Save**.
 
 2.	Select the **Department** from department list and right click on it. Select **Browse Company HR**.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_24.jpg)
+![](/images/browsecompanyhrdepartment.jpg)
 
 3.	Select **Employee** from employee list and right click on it. Select **Browse Company HR**.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_25.jpg)
+![](/images/browsecompanyhremployees.jpg)
 
 **Step-2**: You can list and edit the following details:
 
-[Rate masters]()
+1. Rate masters
 
-[Leave Balance]()
+2. Leave Balance
 
-[Leave Encashment (Manual)]()
+3. Leave Encashment (Manual)
 
-[Leave Encashment (Auto)]()
+4. Leave Encashment (Auto)
 
-[Loans]()
+5. Loans
 
-[Bonus Master]()
+6. Bonus Master
 
-[Bonus Full and Final]()
+7. Bonus Full and Final
 
-[IT Salary Summary]()
+8. IT Salary Summary
 
-[Form 3A]()
+9. Form 3A

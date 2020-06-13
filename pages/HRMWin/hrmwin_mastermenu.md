@@ -2,7 +2,7 @@
 title: Master Menu
 keywords: Master Menu
 sidebar: hrmwin_sidebar
-permalink: hrmwin_mastermenu.html
+permalink: hrm-nirvana-win/mastermenu.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,17 +11,8 @@ hide_sidebar: false
 
 When click on HRMS menu, the following options will appear:
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_213.jpg)
+![](/images/mastermenu.jpg)
 
 
 
 
-> More:
-
-[Company]()
-
-[Campus]()
-
-[Attendance Type]()
-
-[HR Configuration]()

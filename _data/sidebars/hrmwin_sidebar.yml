@@ -27,30 +27,30 @@ entries:
        
   - title: Introduction
     output: single    
-    url: hrm-nirvana-win/introduction.html
+    url: /hrm-nirvana-win/introduction.html
     folderitems:
     - 
 
   - title: Company
     output: single   
-    url: hrm-nirvana-win/company.html
+    url: /hrm-nirvana-win/company.html
     folderitems:
     -   
        
   - title: Campus
     output: single
-    url: hrm-nirvana-win/campus.html
+    url: /hrm-nirvana-win/campus.html
     folderitems:
 
     -
 
   - title: Company HR Details
-    url: hrm-nirvana-win/companyhrdetails.html 
+    url: /hrm-nirvana-win/companyhrdetails.html 
     output: web, pdf
 
     folderitems:
     - title: Rate Masters
-      url: hrm-nirvana-win/ratemasters.html
+      url: /hrm-nirvana-win/ratemasters.html
       output: web, pdf
 
     - title: Leave Balance
@@ -89,7 +89,7 @@ entries:
 
   - title: Rate Master
     output: single   
-    url: /hrm-nirvana-win/Rate_Master.html
+    url: /hrm-nirvana-win/rate-master.html
 
     folderitems:
     
@@ -196,58 +196,58 @@ entries:
       output: web, pdf
       
     - title: Allowances
-      url: hrm-nirvana-win/allowances.html
+      url: /hrm-nirvana-win/allowances.html
       output: web, pdf
       
     - title: Salary Payments
-      url: hrm-nirvana-win/salarypayments.html
+      url: /hrm-nirvana-win/salarypayments.html
       output: web, pdf
       
     - title: Bonus
-      url: hrm-nirvana-win/hrmwin_bonus.html
+      url: /hrm-nirvana-win/bonus.html
       output: web, pdf
       
     - title: Salary Rates
-      url: hrm-nirvana-win/salaryrates.html
+      url: /hrm-nirvana-win/salaryrates.html
       output: web, pdf
       
     - title: Categorization
-      url: hrm-nirvana-win/cat.html
+      url: /hrm-nirvana-win/cat.html
       output: web, pdf
       
     - title: Incentive
-      url: hrm-nirvana-win/incentive.html
+      url: /hrm-nirvana-win/incentive.html
       output: web, pdf
       
     - title: Incentive Details
-      url: hrm-nirvana-win/incentivedetails.html
+      url: /hrm-nirvana-win/incentivedetails.html
       output: web, pdf
       
     - title: Incentive Payments
-      url: hrm-nirvana-win/incentivepayments.html
+      url: /hrm-nirvana-win/incentivepayments.html
       output: web, pdf
       
     - title: Payment HR Vouchers
-      url: hrm-nirvana-win/paymenthr.html
+      url: /hrm-nirvana-win/paymenthr.html
       output: web, pdf
       
     - title: Salary Details
-      url: hrm-nirvana-win/saldetails.html
+      url: /hrm-nirvana-win/saldetails.html
       output: web, pdf
       
     - title: Cash Details
-      url: hrm-nirvana-win/cash.html
+      url: /hrm-nirvana-win/cash.html
       output: web, pdf
       
       
     - title: Salary Expense
-      url: hrm-nirvana-win/salexpense.html
+      url: /hrm-nirvana-win/salexpense.html
       output: web, pdf
       
      
 
   - title: Advance
-    url: hrm-nirvana-win/advance1.html
+    url: /hrm-nirvana-win/advance1.html
     output: web
     folderitems:
 
@@ -256,18 +256,18 @@ entries:
       output: web
 
       subfolders:
-      - title: Payment
+      - title: Payment and Invoice
         output: web
-        url: hrm-nirvana-win/payment1.html
+        #url: /hrm-nirvana-win/payment1.html
         subfolderitems:
+        - title: Payment
+          output: web
+          url: /hrm-nirvana-win/payment1.html
 
-        -
-        
-      - title: Invoice
-        output: web
-        url: /hrm-nirvana-win/invoice1.html
-        subfolderitems:
-        -
+        - title: Invoice
+          url: /hrm-nirvana-win/invoice1.html
+          output: web
+              
         
   - title: Salary
     #url: /hrmwin_salarymain.html
@@ -284,7 +284,7 @@ entries:
       output: web, pdf
       
     - title: Change Salary Through Pay Proposal
-      url: hrm-nirvana-win/changesalpay.html
+      url: /hrm-nirvana-win/changesalpay.html
       output: web, pdf
       
   - title: Incentive
@@ -455,44 +455,34 @@ entries:
       
     - title: Attendance Type
       url: /hrm-nirvana-win/atttype.html
-      output: web, pdf
-      
-      
-    - title: HR Configuration
-      url: /hrm-nirvana-win/hrconfig.html
-      output: web, pdf
-      
+      output: web
       subfolders:
-      - title: Salary Structure
-        url: /hrm-nirvana-win/salstructure.html
-        output: web
-        subfolderitems:
-
-        -
-        
-      - title: Salary Benefits
-        url: /hrm-nirvana-win/salbenefits.html
-        output: web
-        subfolderitems:
-        
-         -
-         
-         
-      - title: Attendance Types
-        url: /hrm-nirvana-win/attendtype.html
-        output: web
-        subfolderitems:
-         -
-         
-      - title: Shift
-        url: /hrm-nirvana-win/shift.html
-        output: web
-        subfolderitems:
-         -
       
+      - title: HR Configuration
+        url: /hrm-nirvana-win/hrconfig.html
+        output: web,pdf
+        subfolderitems:
+      
+        - title: Salary Structure
+          url: /hrm-nirvana-win/salstructure.html
+          output: web
+        
+        - title: Salary Benefits
+          url: /hrm-nirvana-win/salbenefits.html
+          output: web
+        
+         
+        - title: Attendance Types
+          url: /hrm-nirvana-win/attendtype.html
+          output: web
+        
+        - title: Shift
+          url: /hrm-nirvana-win/shift.html
+          output: web
+        
       
   - title: HRMS Menu
-    url: /hrmwin_hrmsmenu.html
+    url: /hrm-nirvana-win/hrmsmenu.html
     output: web, pdf
 
     folderitems:

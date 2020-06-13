@@ -22,26 +22,26 @@ Select employee and right click on it. Select **Add Employee Loan**.
 
 Click on Add Installment to add installment manually.
 
-![](/images/payperiodtab.jpg)
+![](/images/payperiodtab.png)
 
 **•	Installment deduction from Incentive (Incentive tab)**
 
 Click on Add installment and select pay period to add installment manually.
 
-![](/images/incentivetab.jpg)
+![](/images/incentivetab.png)
 
 
 **•	Installment Deduction from Bonus (Bonus tab)**
 
 Click on Add Installment and select bonus master to add installment manually.
 
-![](/images/bonustabloan.jpg)
+![](/images/bonustabloan.png)
 
 **•	Installment Pay Back (Adhoc tab)**
 
 Click on Add Installment to add adhoc pay back.  
 
-![](/images/adhoctab.jpg)
+![](/images/adhoctab.png)
 
 ## List
 

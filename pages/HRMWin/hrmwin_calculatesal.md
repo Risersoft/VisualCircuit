@@ -27,7 +27,8 @@ Salary calculation takes some time.
 
 ![](/images/calculatingsalarybar.jpg)
 
->Note: 1. If you want to uncalculated salary, then you have to click on uncalculate salary button.
+>Note: 
+1. If you want to uncalculated salary, then you have to click on uncalculate salary button.
 2. If you want to see the calculate summary in browser, the you have to click on Calculate Summary button.  
 3. When calculate salary, details in Benefits, Vouchers and Campus tabs will auto-generated.
 
@@ -39,4 +40,4 @@ Salary calculation takes some time.
 
 **Step-6**: You can see all the details related to salary by **Pay Period Browser**.
 
-![](/images/payperiodbrowser.jpg)
+![](/images/payperiodbrowser.png)

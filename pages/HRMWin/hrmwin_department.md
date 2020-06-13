@@ -36,7 +36,7 @@ Select these according to department purpose:
 >Shops/ Stores are your material departments that you have created in Configuration app.
 
 
-![](/images/shops.jpg)
+![](/images/shops.png)
 
 
 **Step-3**: Click on **Save**.
@@ -62,6 +62,6 @@ Click on **Employees-> Departments**. Department list will appear.
 
 **Step-2**: Edit the details and click on **Save**.
 
->Note: 1. You can edit department by right click on employee and select Edit Department.
-
-       2. You can edit department by right click on loan and select Edit Department.
+>Note: 
+1. You can edit department by right click on employee and select Edit Department.
+2. You can edit department by right click on loan and select Edit Department.

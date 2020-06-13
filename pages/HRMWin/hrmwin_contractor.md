@@ -17,7 +17,7 @@ hide_sidebar: false
 
 **STEP-2**: Fill the details.
 
-![](/images/hrcontractor.jpg)
+![](/images/hrcontractor.png)
 
 
 **STEP-3**: Click on **Add New** button to add other parties of this main contractor. Party form will appear. Fill the details and click on **Ok**. If other party is not available, you can click on **create default** button.

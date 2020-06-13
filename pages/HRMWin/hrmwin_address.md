@@ -12,6 +12,6 @@ hide_sidebar: false
 
 It shows the permanent address of those employees whose geo points of address are available in employee details on google map.
 
-![](/images/geoaddressmap.jpg)
+![](/images/geoaddressmap.png)
 
 ![](/images/addressmap.jpg)

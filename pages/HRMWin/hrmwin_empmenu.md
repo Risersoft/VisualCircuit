@@ -2,7 +2,7 @@
 title: Employee Menu
 keywords: Employee Menu
 sidebar: hrmwin_sidebar
-permalink: hrmwin_empmenu.html
+permalink: hrm-nirvana-win/empmenu.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -11,26 +11,7 @@ hide_sidebar: false
 
 When click on Employees menu, the following options will appear:
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_234.jpg)
+![](/images/employeemenu.jpg)
 
 
 
-> More:
-
-[Departments]()
-
-[List All]()
-
-[Temporary]()
-
-[Permanent]()
-
-[Badli]()
-
-[Probationer]()
-
-[Apprentice]()
-
-[Left]()
-
-[Trainings]()

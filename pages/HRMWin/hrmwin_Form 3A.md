@@ -13,6 +13,6 @@ You can see the details in Form 3a format by expanding this node.
 
 ![](/images/form3Aview.jpg)
 
-![](/images/form3Aedit.jpg.jpg)
+![](/images/form3Aedit.jpg)
 
 

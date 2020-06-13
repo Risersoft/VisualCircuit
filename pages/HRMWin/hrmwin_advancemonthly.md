@@ -19,8 +19,4 @@ This can be used to generate payment entry for accounts purpose.
 
 You can see payments and invoices separately by click on **Payment** and click on **Invoices** in Advance Monthly node respectively.
 
-> More:
 
-[Invoice]()
-
-[Payments]()

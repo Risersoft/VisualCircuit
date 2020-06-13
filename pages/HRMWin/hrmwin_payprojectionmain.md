@@ -2,7 +2,7 @@
 title: Pay Projection
 keywords: Pay Projection
 sidebar: hrmwin_sidebar
-permalink: hrmwin_payprojectionmain.html
+permalink: hrm-nirvana-win/payprojectionmain.html
 folder: HRMWin   
 hide_sidebar: false
 ---
@@ -13,28 +13,28 @@ hide_sidebar: false
 
 **STEP-1**: Select **pay period** from pay period list and right click on it. Select **Add Pay Projection**. Pay Projection form will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_146.jpg)
+![](/images/addpayprojection.jpg)
 
 **STEP-2**: Fill the details and click on **Save**.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_147.jpg)
+![](/images/savepayprojection.jpg)
 
 **STEP-3**: To add **pay proposal**, click on **Proposal** tab and click on **Add**. Pay Proposal form will appear. Fill the details and click on **Save**.  
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_148.jpg)
+![](/images/payproposal.jpg)
 
 
 ## List
 
 Click on **HRMS-> Pay Projections**. Pay Projections list will appear.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_149.jpg)
+![](/images/payprojectionslist.jpg)
 
 ## Edit
 
 **STEP-1**: Select pay projection from the list and right click on it. Select **Edit Pay Projection**.
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_150.jpg)
+![](/images/editpayprojection.jpg)
 
 **STEP-2**: Edit the details and click on **Save**.
 
@@ -43,16 +43,8 @@ Click on **HRMS-> Pay Projections**. Pay Projections list will appear.
 
 Select **pay projection** from list and right click on it. Select **Browse Pay Projection**. Pay Projection browser will appear.  
 
-![](http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_151.jpg)
+![](/images/browsepayprojections.jpg)
 
 
 
->More:
 
-[Projections]()
-
-[Current Proposal]()
-
-[Last Salary]()
-
-[Summary Proposals]()
