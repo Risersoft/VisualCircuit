@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/risersoft/hrm
+      external_url: https://github.com/Risersoft/VisualCircuit
     - title: Blog
       url: /blog
 
@@ -14,18 +14,15 @@ topnav_dropdowns:
   folders:
     - title: Help
       folderitems:
-        - title: HRM Nirvana Web 
-          external_url: http://www.hrmnirvana.com/
-        - title: ESS Android
-          external_url: https://play.google.com/store/apps/details?id=com.risersoft.ess&hl=en_IN
+        - title: Visual Circuits Web
+          external_url: http://www.risersoft.com/visualcircuit-control-schematics/Index/
         - title: Publisher
           external_url: http://www.risersoft.com/
         
     - title: Products
       folderitems:
-        - title: HRM Nirvana Windows 
-          url: /hrm-nirvana-win/introduction.html
-        - title: ESS Mobile 
-          url: /ess-mobile/introduction.html
+        - title: Visual Circuits Windows 
+          url: /visual-circuit/introduction.html
+        
         
           

@@ -6,176 +6,145 @@
 
 
 entries:
-- topic: HRM
+- topic: Visual Circuits
   topicList: 
-  - name: Pay Period
+  - name: Introduction
     list:
-    - title: Attendance
-      url: /hrm-nirvana-win/att.html
+    - title: How it Works
+      url: /visual-circuit/how-it-works.html
       output: web, pdf
       
-    - title: Punched Attendence
-      url: /hrm-nirvana-win/punched.html
+    - title: Features
+      url: /visual-circuit/features.html
       output: web, pdf
       
-    - title: Roster
-      url: /hrm-nirvana-win/roster.html
+  - name: General Environment   
+    list:
+    - title: Main Screen
+      url: /visual-circuit/main-screen.html
       output: web, pdf
       
-    - title: Leave Balance@ End Date
-      url: /hrm-nirvana-win/leavebal.html
+    - title: Menu Commands
+      url: /visual-circuit/menu-commands.html
       output: web, pdf
       
-    - title: Advance
-      url: /hrm-nirvana-win/advance.html
+    - title: Toolbar Commands
+      url: /visual-circuit/toolbar-commands.html
       output: web, pdf
       
-    - title: Salary Summary
-      url: /hrm-nirvana-win/salsum.html
+    - title: Filtering System
+      url: /visual-circuit/filtering-system.html
       output: web, pdf
       
-    - title: Loans
-      url: /hrm-nirvana-win/loans1.html
+    - title: Printing
+      url: /visual-circuit/printing.html
       output: web, pdf
       
-    - title: Bonus
-      url: /hrm-nirvana-win/bonus.html
+    - title: Browser
+      url: /visual-circuit/browser.html
       output: web, pdf
       
-    - title: Incentive
-      url: /hrm-nirvana-win/incentive.html
+    - title: Collaboration Features
+      url: /visual-circuit/collaboration-features.html
+      output: web, pdf
+      
+    - title: Data Entry Screens
+      url: /visual-circuit/data-entry-screens.html
       output: web, pdf
 
-  - name: Advnace,Salary and Incentive
+  - name: Item Coding System
     list:
-      - title: Advance Monthly
-        url: /hrm-nirvana-win/advancemonthly.html
-        output: web, pdf
+      - title: Item Schedule
+        output: single
+        url: /visual-circuit/item-schedule.html
         
-      - title: Calculate Salary
-        url: /hrm-nirvana-win/calculatesal.html
+      - title: Item Sub Category
+        url: /visual-circuit/item-sub-category.html
         output: web, pdf
 
-      - title: Enter Incentive
-        url: /hrm-nirvana-win/enterincentive.html
+      - title: Item Code
+        url: /visual-circuit/item-code.html
         output: web, pdf
         
-      - title: Calculate Incentive
-        url: /hrm-nirvana-win/calincentive.html
-        output: web, pdf
-        
-      - title: Salary
-        url: /hrm-nirvana-win/salary.html
-        output: web, pdf
-        
-      - title: Salary Components
-        url: /hrm-nirvana-win/salcomp.html
-        output: web, pdf
-        
-      - title: Salary Payments
-        url: /hrm-nirvana-win/salarypayments.html
-        output: web, pdf
-        
-      - title: Incentive Details
-        url: /hrm-nirvana-win/incentivedetails.html
-        output: web, pdf
-        
-      - title: Incentive Payments
-        url: /hrm-nirvana-win/incentivepayments.html
-        output: web, pdf 
-  - name: HRMS Menu
-    list:
-      - title: Pay Periods
-        url: /hrm-nirvana-win/payperiods1.html
-        output: web, pdf
-        
-      - title: Loans
-        url: /hrm-nirvana-win/loans3.html
-        output: web, pdf 
-        
-      - title: Pay Projection
-        url: /hrm-nirvana-win/payproj.html
-        output: web, pdf 
-        
-      - title: Latecomers and Absentees
-        url: /hrm-nirvana-win/lateadsent.html
-        output: web, pdf 
-        
-      - title: Main Contractors
-        url: /hrm-nirvana-win/maincontractors.html
-        output: web, pdf 
-        
-      - title: Contractors
-        url: /hrm-nirvana-win/contractors.html
-        output: web, pdf 
-        
-      - title: Leave Applications
-        url: /hrm-nirvana-win/leaveapp.html
-        output: web, pdf 
-  - name: Employee Menu
-    list:
-      - title: Departments
-        url: /hrm-nirvana-win/dep.html
-        output: web, pdf
-        
-      - title: List All
-        url: /hrm-nirvana-win/listall.html
-        output: web, pdf 
-        
-      - title: Trainings
-        url: /hrm-nirvana-win/train.html
+      - title: Version Management System
+        url: /visual-circuit/version-management-system.html
         output: web, pdf  
-
-  - name: Master Menu
-    list:
-      - title: Company
-        url: /hrm-nirvana-win/comp.html
+        
+  - name: Control Item
+    list:    
+      - title: Specification
+        url: /visual-circuit/specification.html
         output: web, pdf
         
-      - title: Campus
-        url: /hrm-nirvana-win/camp.html
-        output: web, pdf 
-        
-      - title: Attendance Type
-        url: /hrm-nirvana-win/atttype.html
-        output: web, pdf 
-        
-      - title: HR Configuration
-        url: /hrm-nirvana-win/hrconfig.html
-        output: web, pdf 
-
-- topic: ESS
-  topicList: 
-  - name: ESS Mobile App
-    list:
-      - title: Introduction
-        url: /ess-mobile/introduction.html
+      - title: Details
+        url: /visual-circuit/details.html
         output: web, pdf
         
-      - title: Sign In
-        url: /ess-mobile/signin.html
+      - title: Mounting Guide
+        url: /visual-circuit/mounting-guide.html
+        output: web, pdf
+        
+      - title: Component Terminal Sets
+        url: /visual-circuit/component-terminal-sets.html
+        output: web, pdf
+  - name: Work Order Panel and Document Configuration
+    list:
+      - title: Documents
+        url: /visual-circuit/documents.html
+        output: web, pdf
+  - name: Work Order Schematics
+    list:   
+      - title: Adding / Editing Control Items in Panels
+        url: /visual-circuit/adding-editing-control-items-in-panels.html
         output: web, pdf 
         
-      - title: Leave
-        url: /ess-mobile/leave.html
+      - title: Terminals and Bus Assignment
+        url: /visual-circuit/terminals-and-bus-assignment.html
         output: web, pdf 
         
-      - title: Team
-        url: /ess-mobile/team.html
+      - title: Terminal Blocks
+        url: /visual-circuit/terminal-blocks.html
         output: web, pdf 
         
-      - title: PaySlip
-        url: /ess-mobile/payslip.html
-        output: web, pdf 
+      - title: Labels
+        url: /visual-circuit/labels.html
+        output: web, pdf
         
-      - title: Profile
-        url: /ess-mobile/profile.html
-        output: web, pdf 
+      - title: Bus Assignment
+        url: /visual-circuit/bus-assignment.html
+        output: web, pdf
         
-      - title: Punch
-        url: /ess-mobile/punch.html
+      - title: Multi Bus
+        url: /visual-circuit/multi-bus.html
+        output: web, pdf
+      
+      - title: Copy Wire Nos. to Clipboard
+        url: /visual-circuit/copy-wire-nos-to-clipboard.html
+        output: web, pdf
+  - name: Output Reports
+    list:
+      - title: Terminal Block Diagram
+        url: /visual-circuit/terminal-block-diagram.html
+        output: web, pdf
+      
+      - title: Wiring Details
+        url: /visual-circuit/wiring-details.html
+        output: web, pdf
+      
+      - title: Labels, Hardware and Lugs
+        url: /visual-circuit/labels-hardware-lugs.html
+        output: web, pdf
+      
+      - title: Material List
+        url: /visual-circuit/material-list.html
+        output: web, pdf
+      
+      - title: Customer GA Bill of Material
+        url: /visual-circuit/customer-ga-bill-of-material.html
+        output: web, pdf
+      
+      - title: Panel Interconnections
+        url: /visual-circuit/panel-interconnection.html
         output: web, pdf 
-        
-      - title: Sign Out
-        url: /ess-mobile/signout.html
-        output: web, pdf 
+
+  

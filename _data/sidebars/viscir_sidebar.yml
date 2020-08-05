@@ -1,0 +1,224 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+#    - title: Git collaboration
+#      url: /mydoc_git_collaboration
+#      output: web, pdf
+
+
+
+entries:
+- title: sidebar
+  product: Visual Circuit Windows
+  
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+       
+  - title: Introduction
+    url: /visual-circuit/introduction.html
+    output: web
+    
+    folderitems:
+    - title: How it Works
+      url: /visual-circuit/how-it-works.html
+      output: web
+      
+    - title: Features
+      url: /visual-circuit/features.html
+      output: web
+
+  - title: Terminology
+    output: single   
+    url: /visual-circuit/terminology.html
+    folderitems:
+    -   
+       
+  - title: Documentation Notes
+    output: single
+    url: /visual-circuit/documentation-notes.html
+    folderitems:
+    -
+
+  - title: General Environment
+    url: /visual-circuit/general-environment.html 
+    output: web
+
+    folderitems:
+    - title: Main Screen
+      url: /visual-circuit/main-screen.html
+      output: web
+
+    - title: Menu Commands
+      url: /visual-circuit/menu-commands.html
+      output: web
+      
+    - title: Toolbar Commands
+      url: /visual-circuit/toolbar-commands.html
+      output: web
+      
+    - title: Filtering System
+      url: /visual-circuit/filtering-system.html
+      output: web
+      
+                
+    - title: Printing
+      url: /visual-circuit/printing.html
+      output: web
+      
+    - title: Browser
+      url: /visual-circuit/browser.html
+      output: web
+      
+    - title: Collaboration Features
+      url: /visual-circuit/collaboration-features.html
+      output: web
+      
+    - title: Data Entry Screens
+      url: /visual-circuit/data-entry-screens.html
+      output: web, pdf
+
+  - title: Item Coding System
+    url: /visual-circuit/item-coding-system.html
+    output: web
+    folderitems:
+    
+    - title: Item Schedule
+      output: web
+      url: /visual-circuit/item-schedule.html
+      
+    - title: Item Sub Category
+      url: /visual-circuit/item-sub-category.html
+      output: web
+            
+    - title: Item Code
+      url: /visual-circuit/item-code.html
+      output: web 
+  
+    - title: Version Management System
+      url: /visual-circuit/version-management-system.html
+      output: web
+     
+
+  - title: Control Item Category
+    output: single   
+    url: /visual-circuit/control-item-category.html
+    folderitems:
+    -
+
+  - title: Control Item
+    url: /visual-circuit/control-item.html
+    output: web
+    folderitems:
+    
+    - title: Specification
+      url: /visual-circuit/specification.html
+      output: web, pdf
+      
+    - title: Details
+      url: /visual-circuit/details.html
+      output: web, pdf
+      
+    - title: Mounting Guide
+      url: /visual-circuit/mounting-guide.html
+      output: web, pdf  
+      
+    - title: Component Terminal Sets
+      url: /visual-circuit/component-terminal-sets.html
+      output: web, pdf 
+      
+
+  - title: Work Order
+    output: single   
+    url: /visual-circuit/work-order.html
+    folderitems:
+    
+    -
+
+  - title: Work Order Panel and Document Configuration
+    url: /visual-circuit/work-order-panel-and-document-configuration.html
+    output: web, pdf
+    
+    folderitems:
+
+    - title: Documents
+      url: /visual-circuit/documents.html
+      output: web, pdf
+      
+  - title: Work Order Schematics
+    url: /visual-circuit/work-order-schematics.html
+    output: web, pdf
+    folderitems:
+      
+    - title: Adding / Editing Control Items in Panels
+      url: /visual-circuit/adding-editing-control-items-in-panels.html
+      output: web, pdf
+      
+    - title: Terminals and Bus Assignment
+      url: /visual-circuit/terminals-and-bus-assignment.html
+      output: web, pdf
+      
+        
+    - title: Terminal Blocks
+      url: /visual-circuit/terminal-blocks.html
+      output: web, pdf
+      
+    - title: Labels
+      url: /visual-circuit/labels.html
+      output: web, pdf
+      
+    - title: Bus Assignment
+      url: /visual-circuit/bus-assignment.html
+      output: web, pdf
+      
+    - title: Multi Bus
+      url: /visual-circuit/multi-bus.html
+      output: web, pdf
+      
+    - title: Copy Wire Nos. to Clipboard
+      url: /visual-circuit/copy-wire-nos-to-clipboard.html
+      output: web, pdf
+      
+  - title: Output Reports
+    url: /visual-circuit/output-reports.html
+    output: web, pdf
+    folderitems:
+      
+    - title: Terminal Block Diagram
+      url: /visual-circuit/terminal-block-diagram.html
+      output: web, pdf
+      
+    - title: Wiring Details
+      url: /visual-circuit/wiring-details.html
+      output: web, pdf
+      
+    - title: Labels, Hardware and Lugs
+      url: /visual-circuit/labels-hardware-lugs.html
+      output: web, pdf
+      
+    - title: Material List
+      url: /visual-circuit/material-list.html
+      output: web, pdf
+      
+    - title: Customer GA Bill of Material
+      url: /visual-circuit/customer-ga-bill-of-material.html
+      output: web, pdf
+      
+    - title: Panel Interconnections
+      url: /visual-circuit/panel-interconnection.html
+      output: web, pdf
+      
+  
+
+      
+      
