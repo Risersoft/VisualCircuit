@@ -1,0 +1,7 @@
+--
+13 / 9 / 2009
+
+All documents to have a field saying whether it is a control document or not.
+All document listings (master and wo) in max.app.cts to be only for control documents.
+
+people may be getting confused seeing so many documents.

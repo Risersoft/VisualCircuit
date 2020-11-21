@@ -1,0 +1,131 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.visualcircuit", "Windows\risersoft.app.visualcircuit\risersoft.app.visualcircuit.vbproj", "{5124E810-4D54-44E1-A978-B63972169456}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "_RSVisualCircuit", "Windows\risersoft.exe.visualcircuit\_RSVisualCircuit.vbproj", "{000AE607-E0C3-476E-9D23-D6E6D0903FFF}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.config", "..\Common\Windows\risersoft.app.config\risersoft.app.config.vbproj", "{6E72E896-AFCE-497C-95ED-676F43B862F1}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.mxform", "..\Common\Forms\risersoft.app.mxform\risersoft.app.mxform.vbproj", "{0E5882D2-22B1-4716-99DF-680A77AE3E19}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.mxform.eto", "..\Common\Forms\risersoft.app.mxform.eto\risersoft.app.mxform.eto.vbproj", "{1369917E-2571-46F6-89A4-56826252D4E6}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.reports.erp", "..\Common\Reports\risersoft.app.reports.erp\risersoft.app.reports.erp.vbproj", "{CAD33710-07BC-4C86-AF4C-3A24BA8AB6BA}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.reports", "..\Common\Reports\risersoft.app.reports.eto\risersoft.app.reports.vbproj", "{D4834A97-3F18-4E9D-A6B4-12A6737A1586}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.mxform.vckt", "Framework\risersoft.app.mxform.vckt\risersoft.app.mxform.vckt.vbproj", "{E0FCA215-5E0B-4367-8F50-B00A65990092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Debug2|Any CPU = Debug2|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5124E810-4D54-44E1-A978-B63972169456}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{5124E810-4D54-44E1-A978-B63972169456}.All|Any CPU.Build.0 = Release|Any CPU
+		{5124E810-4D54-44E1-A978-B63972169456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5124E810-4D54-44E1-A978-B63972169456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5124E810-4D54-44E1-A978-B63972169456}.Debug2|Any CPU.ActiveCfg = Debug2|Any CPU
+		{5124E810-4D54-44E1-A978-B63972169456}.Debug2|Any CPU.Build.0 = Debug2|Any CPU
+		{5124E810-4D54-44E1-A978-B63972169456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5124E810-4D54-44E1-A978-B63972169456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000AE607-E0C3-476E-9D23-D6E6D0903FFF}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{000AE607-E0C3-476E-9D23-D6E6D0903FFF}.All|Any CPU.Build.0 = Release|Any CPU
+		{000AE607-E0C3-476E-9D23-D6E6D0903FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000AE607-E0C3-476E-9D23-D6E6D0903FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000AE607-E0C3-476E-9D23-D6E6D0903FFF}.Debug2|Any CPU.ActiveCfg = Debug2|Any CPU
+		{000AE607-E0C3-476E-9D23-D6E6D0903FFF}.Debug2|Any CPU.Build.0 = Debug2|Any CPU
+		{000AE607-E0C3-476E-9D23-D6E6D0903FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000AE607-E0C3-476E-9D23-D6E6D0903FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E72E896-AFCE-497C-95ED-676F43B862F1}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{6E72E896-AFCE-497C-95ED-676F43B862F1}.All|Any CPU.Build.0 = Release|Any CPU
+		{6E72E896-AFCE-497C-95ED-676F43B862F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E72E896-AFCE-497C-95ED-676F43B862F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E72E896-AFCE-497C-95ED-676F43B862F1}.Debug2|Any CPU.ActiveCfg = Debug2|Any CPU
+		{6E72E896-AFCE-497C-95ED-676F43B862F1}.Debug2|Any CPU.Build.0 = Debug2|Any CPU
+		{6E72E896-AFCE-497C-95ED-676F43B862F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E72E896-AFCE-497C-95ED-676F43B862F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5882D2-22B1-4716-99DF-680A77AE3E19}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5882D2-22B1-4716-99DF-680A77AE3E19}.All|Any CPU.Build.0 = Release|Any CPU
+		{0E5882D2-22B1-4716-99DF-680A77AE3E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5882D2-22B1-4716-99DF-680A77AE3E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5882D2-22B1-4716-99DF-680A77AE3E19}.Debug2|Any CPU.ActiveCfg = Debug2|Any CPU
+		{0E5882D2-22B1-4716-99DF-680A77AE3E19}.Debug2|Any CPU.Build.0 = Debug2|Any CPU
+		{0E5882D2-22B1-4716-99DF-680A77AE3E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5882D2-22B1-4716-99DF-680A77AE3E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1369917E-2571-46F6-89A4-56826252D4E6}.All|Any CPU.ActiveCfg = Debug2|Any CPU
+		{1369917E-2571-46F6-89A4-56826252D4E6}.All|Any CPU.Build.0 = Debug2|Any CPU
+		{1369917E-2571-46F6-89A4-56826252D4E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1369917E-2571-46F6-89A4-56826252D4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1369917E-2571-46F6-89A4-56826252D4E6}.Debug2|Any CPU.ActiveCfg = Debug2|Any CPU
+		{1369917E-2571-46F6-89A4-56826252D4E6}.Debug2|Any CPU.Build.0 = Debug2|Any CPU
+		{1369917E-2571-46F6-89A4-56826252D4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1369917E-2571-46F6-89A4-56826252D4E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD33710-07BC-4C86-AF4C-3A24BA8AB6BA}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD33710-07BC-4C86-AF4C-3A24BA8AB6BA}.All|Any CPU.Build.0 = Release|Any CPU
+		{CAD33710-07BC-4C86-AF4C-3A24BA8AB6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD33710-07BC-4C86-AF4C-3A24BA8AB6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD33710-07BC-4C86-AF4C-3A24BA8AB6BA}.Debug2|Any CPU.ActiveCfg = Debug2|Any CPU
+		{CAD33710-07BC-4C86-AF4C-3A24BA8AB6BA}.Debug2|Any CPU.Build.0 = Debug2|Any CPU
+		{CAD33710-07BC-4C86-AF4C-3A24BA8AB6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD33710-07BC-4C86-AF4C-3A24BA8AB6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4834A97-3F18-4E9D-A6B4-12A6737A1586}.All|Any CPU.ActiveCfg = Debug2|Any CPU
+		{D4834A97-3F18-4E9D-A6B4-12A6737A1586}.All|Any CPU.Build.0 = Debug2|Any CPU
+		{D4834A97-3F18-4E9D-A6B4-12A6737A1586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4834A97-3F18-4E9D-A6B4-12A6737A1586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4834A97-3F18-4E9D-A6B4-12A6737A1586}.Debug2|Any CPU.ActiveCfg = Debug2|Any CPU
+		{D4834A97-3F18-4E9D-A6B4-12A6737A1586}.Debug2|Any CPU.Build.0 = Debug2|Any CPU
+		{D4834A97-3F18-4E9D-A6B4-12A6737A1586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4834A97-3F18-4E9D-A6B4-12A6737A1586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0FCA215-5E0B-4367-8F50-B00A65990092}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FCA215-5E0B-4367-8F50-B00A65990092}.All|Any CPU.Build.0 = Release|Any CPU
+		{E0FCA215-5E0B-4367-8F50-B00A65990092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FCA215-5E0B-4367-8F50-B00A65990092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FCA215-5E0B-4367-8F50-B00A65990092}.Debug2|Any CPU.ActiveCfg = Debug2|Any CPU
+		{E0FCA215-5E0B-4367-8F50-B00A65990092}.Debug2|Any CPU.Build.0 = Debug2|Any CPU
+		{E0FCA215-5E0B-4367-8F50-B00A65990092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FCA215-5E0B-4367-8F50-B00A65990092}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D689A00-B4DF-4036-AF4E-2C2585F8353C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://rsds.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Windows\\risersoft.app.visualcircuit\\risersoft.app.visualcircuit.vbproj
+		SccProjectName1 = Windows/risersoft.app.visualcircuit
+		SccLocalPath1 = Windows\\risersoft.app.visualcircuit
+		SccProjectUniqueName2 = Windows\\risersoft.exe.visualcircuit\\_RSVisualCircuit.vbproj
+		SccProjectName2 = Windows/risersoft.exe.visualcircuit
+		SccLocalPath2 = Windows\\risersoft.exe.visualcircuit
+		SccProjectUniqueName3 = ..\\Auth\\Windows\\risersoft.app.config\\risersoft.app.config.vbproj
+		SccProjectName3 = ../Auth/Windows/risersoft.app.config
+		SccLocalPath3 = ..\\Auth\\Windows\\risersoft.app.config
+		SccProjectUniqueName4 = ..\\Auth\\Forms\\risersoft.app.mxform\\risersoft.app.mxform.vbproj
+		SccProjectName4 = ../Auth/Forms/risersoft.app.mxform
+		SccLocalPath4 = ..\\Auth\\Forms\\risersoft.app.mxform
+		SccProjectUniqueName5 = ..\\Auth\\Forms\\risersoft.app.mxform.eto\\risersoft.app.mxform.eto.vbproj
+		SccProjectName5 = ../Auth/Forms/risersoft.app.mxform.eto
+		SccLocalPath5 = ..\\Auth\\Forms\\risersoft.app.mxform.eto
+		SccProjectUniqueName6 = ..\\Auth\\Reports\\risersoft.app.reports.erp\\risersoft.app.reports.erp.vbproj
+		SccProjectName6 = ../Auth/Reports/risersoft.app.reports.erp
+		SccLocalPath6 = ..\\Auth\\Reports\\risersoft.app.reports.erp
+		SccProjectUniqueName7 = ..\\Auth\\Reports\\risersoft.app.reports.eto\\risersoft.app.reports.vbproj
+		SccProjectName7 = ../Auth/Reports/risersoft.app.reports.eto
+		SccLocalPath7 = ..\\Auth\\Reports\\risersoft.app.reports.eto
+		SccProjectUniqueName8 = Framework\\risersoft.app.mxform.vckt\\risersoft.app.mxform.vckt.vbproj
+		SccProjectName8 = Framework/risersoft.app.mxform.vckt
+		SccLocalPath8 = Framework\\risersoft.app.mxform.vckt
+	EndGlobalSection
+EndGlobal
